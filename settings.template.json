@@ -1,0 +1,7 @@
+{
+  "bot_token": "",
+  "log_file": "bbot.log",
+  "debug": true,
+  "stdout_log": true,
+  "db_uri": "postgresql://bbot:password@localhost/bbot"
+}

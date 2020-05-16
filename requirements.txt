@@ -1,0 +1,7 @@
+aiotg
+loguru
+SQLAlchemy
+alembic
+dataclasses-json
+sqla-wrapper
+psycopg2
